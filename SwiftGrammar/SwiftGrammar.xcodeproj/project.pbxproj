@@ -14,7 +14,8 @@
 		CF29FDBF24DB0FCE00A0F78C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF29FDBE24DB0FCE00A0F78C /* Assets.xcassets */; };
 		CF29FDC224DB0FCE00A0F78C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF29FDC024DB0FCE00A0F78C /* LaunchScreen.storyboard */; };
 		CF29FDCD24DB0FCE00A0F78C /* SwiftGrammarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDCC24DB0FCE00A0F78C /* SwiftGrammarTests.swift */; };
-		CF29FDD824DB189000A0F78C /* BasicGrammar.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDD724DB189000A0F78C /* BasicGrammar.swift */; };
+		CF29FDD824DB189000A0F78C /* BasicGrammar01.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDD724DB189000A0F78C /* BasicGrammar01.swift */; };
+		CF29FDDA24DCFC3800A0F78C /* BasicGrammar02.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +40,8 @@
 		CF29FDC824DB0FCE00A0F78C /* SwiftGrammarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftGrammarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF29FDCC24DB0FCE00A0F78C /* SwiftGrammarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftGrammarTests.swift; sourceTree = "<group>"; };
 		CF29FDCE24DB0FCE00A0F78C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CF29FDD724DB189000A0F78C /* BasicGrammar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar.swift; sourceTree = "<group>"; };
+		CF29FDD724DB189000A0F78C /* BasicGrammar01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar01.swift; sourceTree = "<group>"; };
+		CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar02.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +90,8 @@
 				CF29FDBE24DB0FCE00A0F78C /* Assets.xcassets */,
 				CF29FDC024DB0FCE00A0F78C /* LaunchScreen.storyboard */,
 				CF29FDC324DB0FCE00A0F78C /* Info.plist */,
-				CF29FDD724DB189000A0F78C /* BasicGrammar.swift */,
+				CF29FDD724DB189000A0F78C /* BasicGrammar01.swift */,
+				CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */,
 			);
 			path = SwiftGrammar;
 			sourceTree = "<group>";
@@ -203,9 +206,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF29FDDA24DCFC3800A0F78C /* BasicGrammar02.swift in Sources */,
 				CF29FDBA24DB0FCD00A0F78C /* ViewController.swift in Sources */,
 				CF29FDB624DB0FCD00A0F78C /* AppDelegate.swift in Sources */,
-				CF29FDD824DB189000A0F78C /* BasicGrammar.swift in Sources */,
+				CF29FDD824DB189000A0F78C /* BasicGrammar01.swift in Sources */,
 				CF29FDB824DB0FCD00A0F78C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
