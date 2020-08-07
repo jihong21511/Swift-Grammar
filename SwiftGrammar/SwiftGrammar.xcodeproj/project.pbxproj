@@ -18,6 +18,7 @@
 		CF29FDDA24DCFC3800A0F78C /* BasicGrammar02.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */; };
 		CF29FDDC24DD245E00A0F78C /* BasicGrammar03.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDDB24DD245E00A0F78C /* BasicGrammar03.swift */; };
 		CF29FDDE24DD2D7700A0F78C /* BasicGrammar04.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDDD24DD2D7700A0F78C /* BasicGrammar04.swift */; };
+		CF29FDE024DD4E2500A0F78C /* BasicGrammar05.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF29FDDF24DD4E2500A0F78C /* BasicGrammar05.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar02.swift; sourceTree = "<group>"; };
 		CF29FDDB24DD245E00A0F78C /* BasicGrammar03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar03.swift; sourceTree = "<group>"; };
 		CF29FDDD24DD2D7700A0F78C /* BasicGrammar04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar04.swift; sourceTree = "<group>"; };
+		CF29FDDF24DD4E2500A0F78C /* BasicGrammar05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicGrammar05.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				CF29FDD924DCFC3800A0F78C /* BasicGrammar02.swift */,
 				CF29FDDB24DD245E00A0F78C /* BasicGrammar03.swift */,
 				CF29FDDD24DD2D7700A0F78C /* BasicGrammar04.swift */,
+				CF29FDDF24DD4E2500A0F78C /* BasicGrammar05.swift */,
 			);
 			path = SwiftGrammar;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				CF29FDDC24DD245E00A0F78C /* BasicGrammar03.swift in Sources */,
 				CF29FDBA24DB0FCD00A0F78C /* ViewController.swift in Sources */,
 				CF29FDB624DB0FCD00A0F78C /* AppDelegate.swift in Sources */,
+				CF29FDE024DD4E2500A0F78C /* BasicGrammar05.swift in Sources */,
 				CF29FDD824DB189000A0F78C /* BasicGrammar01.swift in Sources */,
 				CF29FDB824DB0FCD00A0F78C /* SceneDelegate.swift in Sources */,
 			);
